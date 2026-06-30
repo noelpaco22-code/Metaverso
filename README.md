@@ -58,10 +58,11 @@ ngrok http 3000
 
 ## 👥 Integrantes
 
-| Nombre:
-- Noel Paco Toledo
-- Jhoanny Justiniano Mendoza
-- Douglas Guayusca Flores
+| Nombre |
+|--------|
+| Noel Paco Toledo |
+| Jhoanny Justiniano Mendoza |
+| Douglas Guayusca Flores |
 
 ---
 
