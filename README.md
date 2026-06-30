@@ -54,16 +54,6 @@ node server.js
 # 4. Para compartir con compañeros (abrir otra terminal)
 ngrok http 3000
 
----
-
-## 👥 Integrantes
-
-| Nombre |
-|--------|
-| Noel Paco Toledo |
-| Jhoanny Justiniano Mendoza |
-| Douglas Guayusca Flores |
----
 ## 📄 Licencia
 
 Proyecto desarrollado con fines educativos para la materia de Tecnologías Emergentes.
@@ -71,3 +61,17 @@ Proyecto desarrollado con fines educativos para la materia de Tecnologías Emerg
 ---
 
 ⭐ **¡Gracias por visitar nuestro metaverso!** ⭐
+---
+
+## 🛠️ Tecnologías utilizadas
+
+| Tecnología | Descripción |
+|------------|-------------|
+| **Three.js** | Motor 3D para renderizar el mundo virtual |
+| **Socket.io** | Comunicación en tiempo real entre usuarios |
+| **Node.js** | Servidor backend |
+| **Express** | Framework para el servidor web |
+| **HTML/CSS** | Interfaz de usuario y estilos |
+| **JavaScript** | Lógica del cliente y servidor |
+
+---
