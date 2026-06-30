@@ -56,7 +56,7 @@ ngrok http 3000
 ```
 ## 👥 Integrantes
 
-| Nombre |
+| Nombres |
 |--------|
 | Noel Paco Toledo |
 | Jhoanny Justiniano Mendoza |
