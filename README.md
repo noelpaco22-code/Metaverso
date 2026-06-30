@@ -38,22 +38,37 @@ Un metaverso interactivo donde los usuarios pueden explorar un mundo 3D, persona
 
 ### Requisitos previos
 - Node.js instalado en tu computadora
-- Conexión a internet (para descargar dependencias)
+- Ngrok instalado (para compartir por internet)
 
 ### Pasos para ejecutar el proyecto
 
 ```bash
-# 1. Clonar el repositorio
-git clone https://github.com/noelpaco22-code/Metaverso.git
-
-# 2. Entrar a la carpeta del proyecto
-cd Metaverso
-
-# 3. Instalar dependencias
+# 1. Instalar dependencias (solo la primera vez)
 npm install express socket.io
 
-# 4. Iniciar el servidor
+# 2. Iniciar el servidor local
 node server.js
 
-# 5. Abrir en el navegador
-# http://localhost:3000
+# 3. Abrir el navegador en http://localhost:3000
+
+# 4. Para compartir con compañeros (abrir otra terminal)
+ngrok http 3000
+
+---
+
+## 👥 Integrantes
+
+| Nombre:
+- Noel Paco Toledo
+- Jhoanny Justiniano Mendoza
+- Douglas Guayusca Flores
+
+---
+
+## 📄 Licencia
+
+Proyecto desarrollado con fines educativos para la materia de Tecnologías Emergentes.
+
+---
+
+⭐ **¡Gracias por visitar nuestro metaverso!** ⭐
