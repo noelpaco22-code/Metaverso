@@ -64,8 +64,6 @@ ngrok http 3000
 | Jhoanny Justiniano Mendoza |
 | Douglas Guayusca Flores |
 
----
-
 ## 📄 Licencia
 
 Proyecto desarrollado con fines educativos para la materia de Tecnologías Emergentes.
